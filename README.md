@@ -1,8 +1,8 @@
 # Online-Vehicle-Rental-System
 
-## wheel-online
+## wheel-online vehicle rental web application
 
-A Java-based web application for streamlined vehicle rental management.
+Wheel-online is a web application that runs on Java and is intended to make renting a car easier. Customers may explore available automobiles, manage bookings, and make secure payments on an easy-to-use interface. Additionally, the program provides strong administration facilities for user account management, vehicle inventory management, and analytical report generation. Utilizing Java's scalability and reliability, wheel-online provides a dependable rental management solution.
 
 ## Features
 
